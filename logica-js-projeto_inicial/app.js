@@ -31,5 +31,3 @@ let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
    } else {
       alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativa.`)
 }*/
-
-//teste GIT
